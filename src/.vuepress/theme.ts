@@ -15,7 +15,7 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
-  repo: "https://github.com/ame-yu/ame-yu.github.io",
+  repo: "https://gitpod.io/?autostart=true#https://github.com/ame-yu/ame-yu.github.io",
 
   docsDir: "src",
 

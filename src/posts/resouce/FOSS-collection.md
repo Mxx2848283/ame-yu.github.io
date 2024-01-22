@@ -1,6 +1,6 @@
 ---
 title: 开源软件收藏
-time: 2021-04-01
+date: 2021-04-01
 update: 2022-05-11
 category: 资源
 tag:
